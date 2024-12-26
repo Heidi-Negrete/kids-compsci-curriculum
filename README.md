@@ -1,8 +1,7 @@
-# Scratch-Path
-A game-development learning path for kids ages 6-99 who are learning to code for the first time.
+# Compsci Resources
 
+A learning path and collection of resources for students ages 6-100
 
-*I'll be working on putting my curriculum for coding education here over the next few weeks*  
+_Underconstruction, stay tuned_
 
-All resources are free for use.  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M3RJT03)
